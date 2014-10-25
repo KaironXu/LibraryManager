@@ -1,0 +1,12 @@
+package com.kairon.iframe;
+
+import javax.swing.JInternalFrame;
+
+/**
+ * Õº ÈΩË‘ƒ¥∞ÃÂ
+ * @author Kaiyong
+ *
+ */
+public class BookBorrowIFrame extends JInternalFrame {
+
+}
